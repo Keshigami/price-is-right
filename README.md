@@ -209,6 +209,9 @@ lsof -i :8080
 **Alan Helmick** - Product Lead & Human Driver  
 *Barely holding the reins but steering toward the dream with determination and joy*
 
+**Maximus Friedrich Baluyot** - Systems Alchemist & Concept Catalyst
+*The spark behind the synergy – blending vision, strategy, and systems to turn garage sale chaos into offline AI magic*
+
 ---
 
 ## 🌟 Simply eBay: Where wild horses meet gentle guidance, and barely-held reins lead to extraordinary results! 🌟
